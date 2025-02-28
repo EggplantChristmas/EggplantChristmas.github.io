@@ -1,1 +1,43 @@
-
+body{
+font family-family: monospace;
+{
+  <style>
+            .declaration { 
+                font-weight: bold;
+            }
+            
+            .quote {
+                font-style:italic;
+            }
+        </style>
+  <style>
+            .big {
+                font-size:500px:;
+            }
+            
+            .bigger { 
+                font-size: 1000;
+            }
+        </style>
+  <style>
+        
+        body
+        {
+            font-family: Monospace;
+        }
+        
+        #jetsons {
+            font-family: cursive;
+        }
+        
+        #addams {
+            font-family: Monospace;
+        }
+        
+        #flinstones{
+            font-family: serif;
+        }
+        </style>
+    </head>
+    <body>
+  
